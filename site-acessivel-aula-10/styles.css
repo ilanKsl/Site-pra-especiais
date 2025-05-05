@@ -24,7 +24,7 @@ section {4965007.jpg
 
 
 .nav-link {
-    color: #CB6D43;
+    color: lch(58.63% 74.59 140.14);
     font-weight: 600;
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: lch(58.63% 74.59 140.14);
     border: none;
     font-weight: bold;
 }
