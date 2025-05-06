@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #ddd1c1;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: lch(58.63% 74.59 140.14);
+    background-color: lch(50.2% 52.94 73.25);
     border: none;
     font-weight: bold;
 }
