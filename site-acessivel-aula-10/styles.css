@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: lch(35.2% 65.1 34.87);
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #ddd1c1;
     --alto-contraste-link: lch(35.2% 65.1 34.87);
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #ddd1c1;
 }
 
 
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #ddd1c1;
 }
 .menu-acessibilidade{
     position: fixed;
