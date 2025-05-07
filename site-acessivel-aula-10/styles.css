@@ -34,7 +34,7 @@ section {4965007.jpg
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 60px;
+    border-radius: 80px;
     width: 100%;
     height: 606px;
     padding: 40px;
@@ -45,8 +45,8 @@ section {4965007.jpg
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18rem;
-    width: 45rem;
+    top: 10rem;
+    width: 22rem;
     height: auto;
 }
 
